@@ -44,7 +44,7 @@ sudo apt install -y python3 python3-pip python3-venv git pandoc poppler-utils
 2. Clone the Repository
 Bash
 
-git clone https://github.com/your-username/doc-converter.git
+git clone https://github.com/hiddendestroyer1945/doc-converter.git,
 cd doc-converter
 
 3. Virtual Environment (venv) Setup
