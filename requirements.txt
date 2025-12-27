@@ -1,0 +1,8 @@
+# --- Python Dependencies ---
+# The script primarily uses standard libraries (os, subprocess, readline, glob).
+# No external pip packages are strictly required for the core logic,
+# but 'gnureadline' is recommended for macOS users to get Tab completion.
+
+# --- System Dependencies (CRITICAL) ---
+# These cannot be installed via pip. You must install them via your package manager:
+# sudo apt install pandoc poppler-utils
